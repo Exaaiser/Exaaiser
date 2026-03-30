@@ -7,17 +7,15 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d152a678-0622-4c63-afd5-4cb11992bd2e" width="800" alt="BNY" style="border-radius: 8px;">
-  <br><br>
-  
+  <img src="https://github.com/user-attachments/assets/d152a678-0622-4c63-afd5-4cb11992bd2e" width="100" alt="BNY Logo" style="margin: 10px;">
   <a href="https://discord.gg/animetr">
-    <img src="https://github.com/user-attachments/assets/ceb06765-76bb-41c6-8882-44b383c9f58b" width="160" alt="Tsuki">
+    <img src="https://github.com/user-attachments/assets/ceb06765-76bb-41c6-8882-44b383c9f58b" width="100" alt="Tsuki Logo" style="margin: 10px;">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/f244db9f-cce2-4501-a572-3dd92ad48f8a" width="160" alt="LVPVS">
-  <br><br><br>
+  <img src="https://github.com/user-attachments/assets/f244db9f-cce2-4501-a572-3dd92ad48f8a" width="100" alt="LVPVS Systems Logo" style="margin: 10px;">
 
-  <p style="color:#8A2BE2; font-size:18px; margin: 5px 0;"><strong>BNY — <em>Information Analyst & Security Engineer</em></strong></p>
+  <br><br>
+
+  <p style="color:#8A2BE2; font-size:16px; margin: 5px 0;"><strong>BNY — <em>Information Analyst & Security Engineer</em></strong></p>
   <p style="color:#00BFFF; font-size:16px; margin: 5px 0;"><strong>Tsuki — <em>Discord Server Admin & Bot Developer</em></strong></p>
   <p style="color:#DA70D6; font-size:16px; margin: 5px 0;"><strong>LVPVS Systems — <em>Head and Creator</em></strong></p>
 </div>
@@ -34,7 +32,7 @@
 
 ### 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,git" alt="Tech Stack图标" />
 </p>
 
 ---
@@ -50,5 +48,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Exaaiser;Strategist;Elite;Tsuki&center=true&width=500&height=50&size=24&duration=3000" alt="Typing SVG" />
 </p>
-
----
