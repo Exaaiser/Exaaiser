@@ -29,9 +29,8 @@
   <em style="color:#DA70D6;">"Power is not given. It is taken."</em>
 </p>
 
----
 
-### ✨ Typing Banner
+### ✨✨✨
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Exaaiser;Strategist;Elite;Tsuki&center=true&width=500&height=50&size=24&duration=3000" alt="Typing SVG" />
 </p>
