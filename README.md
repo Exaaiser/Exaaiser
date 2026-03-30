@@ -3,6 +3,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/animetr">
     <img src="https://github.com/user-attachments/assets/ceb06765-76bb-41c6-8882-44b383c9f58b" width="100" alt="Tsuki">
+     <a></a>
   <br><br><br>
 
   <p style="color:#8A2BE2; font-size:16px; margin: 5px 0;"><strong>BNY — <em>Information Analyst & Security Engineer</em></strong></p>
