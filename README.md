@@ -1,23 +1,27 @@
-<h1 align="center">
-  <span style="background: linear-gradient(90deg,#8A2BE2,#00BFFF); -webkit-background-clip: text; color: transparent;">Exaaiser</span>
-</h1>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/dfee2912-78c5-49a2-9f1a-6c79b70f2bbc" width="800" alt="BNY" style="border-radius: 8px;">
+</div>
 
-<p align="center">
-  <i>"Control the system, or be controlled by it."</i>
-</p>
+<br><br>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d152a678-0622-4c63-afd5-4cb11992bd2e" width="100" alt="BNY Logo" style="margin: 10px;">
-  <a href="https://discord.gg/animetr">
-    <img src="https://github.com/user-attachments/assets/ceb06765-76bb-41c6-8882-44b383c9f58b" width="100" alt="Tsuki Logo" style="margin: 10px;">
-  </a>
-  <img src="https://github.com/user-attachments/assets/f244db9f-cce2-4501-a572-3dd92ad48f8a" width="100" alt="LVPVS Systems Logo" style="margin: 10px;">
-
+  <p style="color:#8A2BE2; font-size:18px; margin: 0;"><strong>BNY — <em>Information Analyst & Security Engineer</em></strong></p>
+  
   <br><br>
 
-  <p style="color:#8A2BE2; font-size:16px; margin: 5px 0;"><strong>BNY — <em>Information Analyst & Security Engineer</em></strong></p>
-  <p style="color:#00BFFF; font-size:16px; margin: 5px 0;"><strong>Tsuki — <em>Discord Server Admin & Bot Developer</em></strong></p>
-  <p style="color:#DA70D6; font-size:16px; margin: 5px 0;"><strong>LVPVS Systems — <em>Head and Creator</em></strong></p>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
+    <div align="center" style="width: 250px;">
+      <a href="https://discord.gg/animetr">
+        <img src="https://github.com/user-attachments/assets/ceb06765-76bb-41c6-8882-44b383c9f58b" width="160" alt="Tsuki">
+      </a>
+      <p style="color:#00BFFF; font-size:16px; margin: 5px 0;"><strong>Tsuki — <em>Discord Server Admin & Bot Developer</em></strong></p>
+    </div>
+
+    <div align="center" style="width: 250px;">
+      <img src="https://github.com/user-attachments/assets/f244db9f-cce2-4501-a572-3dd92ad48f8a" width="160" alt="LVPVS">
+      <p style="color:#DA70D6; font-size:16px; margin: 5px 0;"><strong>LVPVS Systems — <em>Head and Creator</em></strong></p>
+    </div>
+  </div>
 </div>
 
 ---
@@ -32,7 +36,7 @@
 
 ### 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,git" alt="Tech Stack图标" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,git" alt="Tech Stack" />
 </p>
 
 ---
