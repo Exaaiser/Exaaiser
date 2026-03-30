@@ -12,14 +12,11 @@
 
 ---
 
-### About Me
+### 
 <p align="center">
   Java & Python & JS & Angular & Spring Securtiy  | Automation & Bots | Cyber Security IT
 </p>
 
----
-
-### 🚀 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,git,angular,spring" alt="Tech Stack" />
 </p>
