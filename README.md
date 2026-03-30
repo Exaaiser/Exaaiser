@@ -6,10 +6,13 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/f244db9f-cce2-4501-a572-3dd92ad48f8a" width="100" alt="LVPVS">
-  
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <imgsrc="https://github.com/user-attachments/assets/7b5e5acb-391f-4c07-be7e-41fce303a498"width="100" alt="BNY2" />
+
   <br><br><br>
 
-  <p style="color:#8A2BE2; font-size:16px; margin: 5px 0;"><strong>BNY — <em>Information Analyst & Security Engineer</em></strong></p>
+  <p style="color:#8A2BE2; font-size:16px; margin: 5px 0;"><strong>BNY2 — <em>Information Analyst & Security Engineer</em></strong></p>
   <p style="color:#00BFFF; font-size:16px; margin: 5px 0;"><strong>Tsuki — <em>Discord Server Admin & Bot Developer</em></strong></p>
   <p style="color:#DA70D6; font-size:16px; margin: 5px 0;"><strong>LVPVS Systems — <em>Head and Creator</em></strong></p>
 </div>
