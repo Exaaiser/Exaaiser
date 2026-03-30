@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="background: linear-gradient(90deg,#8A2BE2,#00BFFF); -webkit-background-clip: text; color: transparent;">Exaa'ser</span>
+  <span style="background: linear-gradient(90deg,#8A2BE2,#00BFFF); -webkit-background-clip: text; color: transparent;">Exaaiser</span>
 </h1>
 
 <p align="center">
