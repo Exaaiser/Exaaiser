@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color:#8A2BE2">E</span>x<span style="color:#00BFFF">a</span>dus
+  <span style="background: linear-gradient(90deg,#8A2BE2,#00BFFF); -webkit-background-clip: text; color: transparent;">Exaa'ser</span>
 </h1>
 
 <p align="center">
@@ -8,10 +8,12 @@
 
 ---
 
-### 💼 Titles
-- **BNY** — Information Analyst & Security Engineer  
-- **Tsuki** — Discord Server Admin & Bot Developer [discord.gg/animetr](https://discord.gg/animetr)  
-- **LVPVS Systems** — Head and Creator  
+### 💼 Elite Titles
+<p align="center">
+  <strong style="color:#8A2BE2;">BNY</strong> — <em>Information Analyst & Security Engineer</em><br>
+  <strong style="color:#00BFFF;">Tsuki</strong> — <em>Discord Server Admin & Bot Developer</em> <a href="https://discord.gg/animetr">discord.gg/animetr</a><br>
+  <strong style="color:#DA70D6;">LVPVS Systems</strong> — <em>Head and Creator</em>
+</p>
 
 ---
 
@@ -30,9 +32,9 @@
 
 ---
 
-### 📊 Stats
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Exadus&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Exaaiser&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -46,10 +48,12 @@
 
 ### ✨ Typing Banner
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Exadus;Strategist;Elite+Leader;Tsuki+Admin&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Exaa'ser;Strategist;Elite+Leader;Tsuki+Admin&center=true&width=500&height=50&size=24&duration=3000" />
 </p>
 
 ---
 
 ### 🧠 Quote
-> "Power is not given. It is taken."
+<p align="center">
+  <em style="color:#DA70D6;">"Power is not given. It is taken."</em>
+</p>
