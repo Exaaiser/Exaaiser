@@ -24,8 +24,6 @@
   <img src="https://skillicons.dev/icons?i=java,python,js,git,angular,spring" alt="Tech Stack" />
 </p>
 
----
-
 ### 
 <p align="center">
   <em style="color:#DA70D6;">"Power is not given. It is taken."</em>
