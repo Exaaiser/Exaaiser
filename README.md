@@ -40,13 +40,16 @@
 
 ### ✨ Typing Banner
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Exaaiser;Strategist;Elite+Leader;Tsuki+Admin&center=true&width=500&height=50&size=24&duration=3000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Exaa'ser;Strategist;Elite+Leader;Tsuki+Admin&center=true&width=500&height=50&size=24&duration=3000" />
 </p>
 
 ---
 
 <!-- LVPVS BOTTOM HEADER -->
-<h2 align="center" style="color:#DA70D6;">LVPVS Systems — Head and Creator</h2>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/27c7eddf-9934-450b-be81-1208b1544cc6" width="60"/><br>
+  <strong style="color:#DA70D6; font-size:20px;">LVPVS Systems</strong> — Head and Creator
+</p>
 
 ---
 
@@ -55,7 +58,9 @@
   <em style="color:#DA70D6;">"Power is not given. It is taken."</em>
 </p>
 
-<!-- Snake Contribution -->
+---
+
+### 🐍 Contribution
 <p align="center">
   ![snake gif](https://github.com/Exaaiser/Exaaiser/blob/output/github-contribution-grid-snake.svg)
 </p>
