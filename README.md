@@ -3,7 +3,8 @@
 </h1>
 
 <p align="center">
-  <i>"Control the system, or be controlled by it."</i>
+  <i>"Control the system, or be controlled by it."<i>
+  <i>    "Power is not given. It is taken." <i>
 </p>
 
 <div align="center">
@@ -23,14 +24,6 @@
   <br>
   <p style="color: #DA70D6; font-size: 18px;"><strong>LVPVS Systems — <em>Head and Creator</em></strong></p>
 </div>
-
----
-
-### About Me
-<p align="center">
-  ⚡ Strategist. Elite Thinker. Future Leader.<br>
-  💻 Java & Python Developer | Automation & Bots | Cyber Security
-</p>
 
 ---
 
