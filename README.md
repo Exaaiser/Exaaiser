@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <i>"Control the system, or be controlled by it."<i> /n
+  <i>"Control the system, or be controlled by it.", <i> 
   <i>    "Power is not given. It is taken." <i>
 </p>
 
