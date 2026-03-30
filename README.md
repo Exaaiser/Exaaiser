@@ -7,29 +7,25 @@
 </p>
 
 <div align="center">
-  <img src=<img width="1703" height="388" alt="image" src="https://github.com/user-attachments/assets/80186133-348c-46e7-a1c8-b76f0d6c2530" /> width="800" alt="BNY - Information Analyst & Security Engineer" style="border-radius: 8px;">
-  <br>
-  <p style="color:#8A2BE2;"><strong>BNY — <em>Information Analyst & Security Engineer</em></strong></p>
+  <img src="https://github.com/user-attachments/assets/d152a678-0622-4c63-afd5-4cb11992bd2e" width="800" alt="BNY" style="border-radius: 8px;">
   <br><br>
-
+  
   <a href="https://discord.gg/animetr">
-    <img src="https://github.com/user-attachments/assets/4ffe171b-7738-48d1-b637-25e71551f41d" width="160" alt="Tsuki - Discord Server Admin & Bot Developer">
+    <img src="https://github.com/user-attachments/assets/ceb06765-76bb-41c6-8882-44b383c9f58b" width="160" alt="Tsuki">
   </a>
-  <p style="color:#00BFFF;"><strong>Tsuki — <em>Discord Server Admin & Bot Developer</em></strong></p>
-</div>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/f244db9f-cce2-4501-a572-3dd92ad48f8a" width="160" alt="LVPVS">
+  <br><br><br>
 
-<div align="center">
-  <h3 style="color:#DA70D6;">🚀 Systems Control</h3>
-  <p style="margin-top: 20px;">
-    <img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/ad7f0992-fc2c-4374-9c9a-6d185ed0e840" />
-
-    <span style="font-size: 1.5em; font-weight: bold; color: #DA70D6; margin-left: 15px;">LVPVS Systems — <em>Head and Creator</em></span>
-  </p>
+  <p style="color:#8A2BE2; font-size:18px; margin: 5px 0;"><strong>BNY — <em>Information Analyst & Security Engineer</em></strong></p>
+  <p style="color:#00BFFF; font-size:16px; margin: 5px 0;"><strong>Tsuki — <em>Discord Server Admin & Bot Developer</em></strong></p>
+  <p style="color:#DA70D6; font-size:16px; margin: 5px 0;"><strong>LVPVS Systems — <em>Head and Creator</em></strong></p>
 </div>
 
 ---
 
-### About Me <p align="center">
+### About Me
+<p align="center">
   ⚡ Strategist. Elite Thinker. Future Leader.<br>
   💻 Java & Python Developer | Automation & Bots | Cyber Security
 </p>
@@ -38,9 +34,11 @@
 
 ### 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,git" alt="Tech Stack图标" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,git" alt="Tech Stack" />
 </p>
+
 ---
+
 ### 🧠 Quote
 <p align="center">
   <em style="color:#DA70D6;">"Power is not given. It is taken."</em>
