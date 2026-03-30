@@ -8,12 +8,26 @@
 
 ---
 
-### 💼 Elite Titles
-<p align="center">
-  <strong style="color:#8A2BE2;">BNY</strong> — <em>Information Analyst & Security Engineer</em><br>
-  <strong style="color:#00BFFF;">Tsuki</strong> — <em>Discord Server Admin & Bot Developer</em> <a href="https://discord.gg/animetr">discord.gg/animetr</a><br>
-  <strong style="color:#DA70D6;">LVPVS Systems</strong> — <em>Head and Creator</em>
-</p>
+<div align="center">
+  <h3>💼 The Empire</h3>
+  
+  <img src="bny_resim_linki.jpg" width="600" alt="BNY - Information Analyst & Security Engineer">
+  <br>
+  <p><em>Information Analyst & Security Engineer</em></p>
+  <br>
+
+  <a href="https://discord.gg/animetr">
+    <img src="tsuki_resim_linki.webp" width="250" alt="Tsuki - Discord Server Admin & Bot Developer">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="lvpvs_resim_linki.webp" width="180" alt="LVPVS Systems - Head and Creator">
+  
+  <p>
+    <span style="color:#00BFFF;"><strong>Tsuki:</strong> Server Admin & Bot Dev</span> 
+    &nbsp;&nbsp;|&nbsp;&nbsp; 
+    <span style="color:#DA70D6;"><strong>LVPVS Systems:</strong> Head & Creator</span>
+  </p>
+</div>
 
 ---
 
@@ -21,32 +35,4 @@
 <p align="center">
   ⚡ Strategist. Elite Thinker. Future Leader.<br>
   💻 Java & Python Developer | Automation & Bots | Cyber Security
-</p>
-
----
-
-### 🚀 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,git" />
-</p>
-
----
-
-### 🐍 Contribution
-<p align="center">
-  ![snake gif](https://github.com/Exaaiser/Exaaiser/blob/output/github-contribution-grid-snake.svg)
-</p>
-
----
-
-### ✨ Typing Banner
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Exaaiser;Visionary;Elite+Man;Tsuki&center=true&width=500&height=50&size=24&duration=3000" />
-</p>
-
----
-
-### 🧠 Quote
-<p align="center">
-  <em style="color:#DA70D6;">"Power is not given. It is taken."</em>
 </p>
