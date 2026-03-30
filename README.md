@@ -17,15 +17,14 @@
 
 ### About Me
 <p align="center">
-  ⚡ Strategist. Elite Thinker. Future Leader.<br>
-  💻 Java & Python Developer | Automation & Bots | Cyber Security
+  Java & Python & JS & Angular Developer  | Automation & Bots | Cyber Security
 </p>
 
 ---
 
 ### 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,git,angular" alt="Tech Stack" />
 </p>
 
 ---
