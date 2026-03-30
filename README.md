@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/dfee2912-78c5-49a2-9f1a-6c79b70f2bbc" width="800" alt="BNY - Information Analyst & Security Engineer" style="border-radius: 8px;">
+  <img src=<img width="1703" height="388" alt="image" src="https://github.com/user-attachments/assets/80186133-348c-46e7-a1c8-b76f0d6c2530" /> width="800" alt="BNY - Information Analyst & Security Engineer" style="border-radius: 8px;">
   <br>
   <p style="color:#8A2BE2;"><strong>BNY — <em>Information Analyst & Security Engineer</em></strong></p>
   <br><br>
