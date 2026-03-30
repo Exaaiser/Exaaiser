@@ -1,22 +1,31 @@
-<h1 align="center">Exadus ⚡</h1>
+<h1 align="center">
+  <span style="color:#8A2BE2">E</span>x<span style="color:#00BFFF">a</span>dus
+</h1>
 
 <p align="center">
-  <i>Building. Leading. Dominating.</i>
+  <i>"Control the system, or be controlled by it."</i>
 </p>
 
 ---
 
-### 🧠 About Me
-- 🎯 Focused on **power, strategy and control**
-- 💻 Java & backend developer
-- 🌍 Interested in politics & global systems
-- ⚡ Future: Leadership & influence
+### 💼 Titles
+- **BNY** — Information Analyst & Security Engineer  
+- **Tsuki** — Discord Server Admin & Bot Developer [discord.gg/animetr](https://discord.gg/animetr)  
+- **LVPVS Systems** — Head and Creator  
+
+---
+
+### 🧩 About Me
+<p align="center">
+  ⚡ Strategist. Elite Thinker. Future Leader.<br>
+  💻 Java & Python Developer | Automation & Bots | Cyber Security
+</p>
 
 ---
 
 ### 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,git,linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,git" />
 </p>
 
 ---
@@ -28,12 +37,19 @@
 
 ---
 
-### 🧩 Quote
-> "Power is not given. It is taken."
+### 🐍 Contribution
+<p align="center">
+  ![snake gif](https://github.com/Exaaiser/Exaaiser/blob/output/github-contribution-grid-snake.svg)
+</p>
 
 ---
 
-### 🔥 Activity
+### ✨ Typing Banner
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Exadus&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Exadus;Strategist;Elite+Leader;Tsuki+Admin&center=true&width=500&height=50">
 </p>
+
+---
+
+### 🧠 Quote
+> "Power is not given. It is taken."
