@@ -32,13 +32,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Exaaiser&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ### 🐍 Contribution
 <p align="center">
   ![snake gif](https://github.com/Exaaiser/Exaaiser/blob/output/github-contribution-grid-snake.svg)
