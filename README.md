@@ -41,7 +41,7 @@
 
 ### ✨ Typing Banner
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Exaaiser;Strategist;Elite+Leader;Tsuki+Admin&center=true&width=500&height=50&size=24&duration=3000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Exaaiser;Visionary;Elite+Man;Tsuki&center=true&width=500&height=50&size=24&duration=3000" />
 </p>
 
 ---
