@@ -17,7 +17,7 @@
 
 ### About Me
 <p align="center">
-  Java & Python & JS & Angular Developer  | Automation & Bots | Cyber Security
+  Java & Python & JS & Angular & Spring Securtiy  | Automation & Bots | Cyber Security IT
 </p>
 
 ---
@@ -29,7 +29,7 @@
 
 ---
 
-### 🧠 Quote
+### 
 <p align="center">
   <em style="color:#DA70D6;">"Power is not given. It is taken."</em>
 </p>
