@@ -14,7 +14,7 @@
 
 ### 
 <p align="center">
-  Java & Python & JS & Angular & Spring Securtiy  | Automation & Bots | Cyber Security IT
+  Java & Python & JS & Angular & Spring Securtiy & Docker & Kubernetes  | Automation & Bots | Cyber Security IT
 </p>
 
 <p align="center">
