@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,git,angular,spring" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,git,angular,spring,docker,kubernetes" alt="Tech Stack" />
 </p>
 
 ### 
