@@ -6,7 +6,7 @@
      <a></a>
   <br><br><br>
 
-  <p style="color:#8A2BE2; font-size:16px; margin: 5px 0;"><strong>BNY — <em>Information Analyst & Security Engineer</em></strong></p>
+  <p style="color:#8A2BE2; font-size:16px; margin: 5px 0;"><strong>BNY — <em>Identity Access Management</em></strong></p>
   <p style="color:#00BFFF; font-size:16px; margin: 5px 0;"><strong>Tsuki — <em>Discord Server Admin & Bot Developer</em></strong></p>
 </div>
 
